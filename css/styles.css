@@ -154,4 +154,14 @@ a:hover{
 .languages-pic {
   box-shadow: #11999E;
   padding: 10px;
-} 
+}
+
+.taco-truck-app {
+  max-width:100%;
+  height:auto;
+}
+
+.tripster-app {
+  max-width:100%;
+  height:auto;
+}
