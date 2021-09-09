@@ -80,18 +80,6 @@ a:hover{
   padding: 20px 0;
 }
 
-/* .top-cloud{
-  position: absolute;
-  right: 300px;
-  top: 40px;
-}
-
-.bottom-cloud{
-  position: absolute;
-  left: 250px;
-  bottom: 300px;
-} */
-
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
@@ -164,4 +152,19 @@ a:hover{
 .tripster-app {
   max-width:100%;
   height:auto;
+}
+
+.money-app {
+  max-width:100%;
+  height:auto;
+}
+
+.money-link {
+  max-width:100%;
+  height:auto;
+}
+
+.skills-list {
+  width: 30%;
+  margin: auto;
 }
