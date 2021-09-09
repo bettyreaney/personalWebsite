@@ -32,10 +32,10 @@ p{
 }
 
 hr{
-  border: dotted #EAF6F6;
+  border: dotted #99dfe1;
   border-bottom: none;
-  width: 4%;
-  margin: 100px auto;
+  width: 6%;
+  margin: 30px auto;
 }
 
 a{
@@ -167,4 +167,8 @@ a:hover{
 .skills-list {
   width: 30%;
   margin: auto;
+}
+
+.git-link {
+  padding: 40px;
 }
